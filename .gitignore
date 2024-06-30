@@ -1,0 +1,14 @@
+# Ignora arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de configuração do ambiente
+.env
+
+# Ignora diretórios de dependências
+node_modules/
+vendor/
+
+# Ignora arquivos gerados
+*.log
+*.cache
